@@ -1,0 +1,7 @@
+elasticsearch7
+email-validator
+lazy-object-proxy
+setproctitle
+aiohttp
+Flask-OpenID
+
